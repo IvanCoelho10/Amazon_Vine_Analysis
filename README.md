@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon_Vine_Analysis Project
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 
